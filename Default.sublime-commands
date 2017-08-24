@@ -1,0 +1,10 @@
+[
+    {
+        "command": "simpleserver_start",
+        "caption": "SimpleServer: Start SimpleServer"
+    },
+    {
+        "command": "simpleserver_stop",
+        "caption": "SimpleServer: Stop SimpleServer"
+    }
+]

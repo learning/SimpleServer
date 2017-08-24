@@ -1,0 +1,19 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "T",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "SimpleServer",
+                "children":
+                [
+                    { "command": "simpleserver_start", "caption": "Start SimpleServer" },
+                    { "command": "simpleserver_stop", "caption": "Stop SimpleServer" },
+                ]
+            }
+
+        ]
+    }
+]
